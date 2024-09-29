@@ -1,9 +1,14 @@
 # Data Science Project 
 
-Developed a predictive model using machine learning to forecast rainfall in millimeters. Trained the model with 50 years of climate data and deployed it online via Render, allowing users to select a city and receive a 3-day weather forecast with 78% accuracy, Using technologies such as REST API (OpenMeteo), Data Exploratory Analysis, SQLite3, Python, Pandas, Matplotlib, Seaborn, Scikit-learn. Within our accomplishments:
+Developed a predictive model using machine learning to forecast rainfall in millimeters. Trained the model with 50 years of climate data and deployed it online via Render, allowing users to select a city and receive a 3-day weather forecast with 78% accuracy, Using technologies such as REST API (OpenMeteo), Data Exploratory Analysis, SQLite3, Python, Pandas, Matplotlib, Seaborn, Scikit-learn. 
+Within our accomplishments:
+
 •Engineered a machine learning model with 78% accuracy.
+
 •Integrated REST API for real-time weather data retrieval.
+
 •Deployed scalable solution on Render platform.
+
 •Achieved seamless user experience with intuitive city selection and forecast display.
 
 
